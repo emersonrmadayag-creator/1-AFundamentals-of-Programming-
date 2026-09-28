@@ -1,5 +1,4 @@
 import javax.swing.JOptionPane;
-import java.awt.*;
 public class labQuiz2 {
     public static void main(String[] args){
             String z1 = "Welcome to Adobo Cooking Show";
