@@ -3,7 +3,7 @@ public class Assignment4JOptionPane {
     public static void main(String[] args) {
         double height = Double.parseDouble(JOptionPane.showInputDialog("Enter height (cm) : "));
         double age = Double.parseDouble(JOptionPane.showInputDialog("Enter age : "));
-        String citizen = JOptionPane.showInputDialog("Citizenship code (C/N) : ").toUpperCase();
+        String citizen = JOptionPane.showInputDialog("Citizenship code (C/N) : ");
         String recommendee = JOptionPane.showInputDialog("Recommendee code (R/N) : ");
 
         String result;
